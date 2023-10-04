@@ -1,8 +1,8 @@
-import tomate from '../../assets/imagens/frutas/Tomate.png';
-import brocolis from '../../assets/imagens/frutas/Brócolis.png';
-import batata from '../../assets/imagens/frutas/Batata.png';
-import pepino from '../../assets/imagens/frutas/Pepino.png';
-import abobora from '../../assets/imagens/frutas/Abóbora.png';
+import tomate from '../../assets/frutas/Tomate.png';
+import brocolis from '../../assets/frutas/Brócolis.png';
+import batata from '../../assets/frutas/Batata.png';
+import pepino from '../../assets/frutas/Pepino.png';
+import abobora from '../../assets/frutas/Abóbora.png';
 
 const carrinho = {
     topo: {

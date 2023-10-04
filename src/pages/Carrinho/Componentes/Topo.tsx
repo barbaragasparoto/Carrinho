@@ -1,6 +1,6 @@
 import React from "react";
 import { Dimensions, Image, Text, StyleSheet } from 'react-native';
-import topo from '../../../../assets/topo.png'
+import topo from '../../../../assets/imagens/topo.png'
 
 const width = Dimensions.get('screen').width;
 
